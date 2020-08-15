@@ -1,4 +1,6 @@
 <!-- CONTENIDO PARA LA VISTA DE CONTACTO -->
+<template>
+    <div>
 <header class="masthead" style="background-image:url('assets/img/contact-bg.jpg');">
     <div class="overlay"></div>
     <div class="container">
@@ -48,3 +50,5 @@
         </div>
     </div>
 </footer>
+</div>
+</template>

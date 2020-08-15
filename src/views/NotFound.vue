@@ -1,4 +1,6 @@
 <!-- CONTENIDO PARA LA VISTA DE RUTAS INEXISTENTES -->
+<template>
+    <div>
 <header class="masthead" style="background-image: url('/assets/img/chevrolet-blazer.jpg');">
     <div class="overlay"></div>
     <div class="container">
@@ -11,3 +13,5 @@
         </div>
     </div>
 </header>
+</div>
+</template>

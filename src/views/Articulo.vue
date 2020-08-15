@@ -1,4 +1,6 @@
 <!-- CONTENIDO PARA LA VISTA DE POST -->
+<template>
+    <div>
 <header class="masthead" style="background-image: url('/assets/img/chevrolet-blazer.jpg');">
     <div class="overlay"></div>
     <div class="container">
@@ -52,3 +54,5 @@
         </div>
     </div>
 </footer>
+</div>
+</template>
